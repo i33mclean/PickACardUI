@@ -1,1 +1,1 @@
-PickACardUI
+PickACardUI - This is a WPF App that will allow the user to use a slider to select how many cards will be picked, and utilizes a listbox that will contain the cards after the "Pick some cards" button is clicked.
